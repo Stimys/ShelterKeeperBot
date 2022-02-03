@@ -10,3 +10,5 @@ Time to time bot will randomly generates events which are connected with the she
 Also, each shelter citizen can enter commands which will create an event only for this citizen
 /wasteland - to check what is going on behind shelter doors. This event takes time (1 - 2 hours), by the end, player will get stuff or (and) experience.
 Experience and items will affect on future events.
+
+Bot is created on Java with Spring. Web Hook is used.
